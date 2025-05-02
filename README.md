@@ -1,4 +1,4 @@
 - [Lion](lion.md)
 - [Elephant](elephant.md)
 - [Dolphin](dolphin.md)
-- [Tiger](tiger.md)
+- [Cat](cat.md)
